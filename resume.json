@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Petrius Lima",
+    "label": "Programmer",
+    "picture": "https://avatars1.githubusercontent.com/u/7064106?v=3&s=460",
+    "email": "petrius.lima@gmail.com",
+    "phone": "",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Leme",
+      "countryCode": "BR",
+      "region": "São Paulo"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "https://br.linkedin.com/in/petrius-lima-665463ba",
+        "url": "https://br.linkedin.com/in/petrius-lima-665463ba"
+      },
+      {
+        "network": "Github",
+        "username": "petriuslima",
+        "url": "https://github.com/petriuslima"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "LUXFACTA - Soluções de TI",
+      "position": "Analyst",
+      "website": "https://www.luxfacta.com",
+      "startDate": "2015-09-15",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "Forbit Tecnologia",
+      "position": "Web developer",
+      "website": "http://www.forbit.com.br/",
+      "startDate": "2014-09-22",
+      "endDate": "2015-09-08",
+      "summary": "",
+      "highlights": [
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Fundação Hermínio Ometto - Uniararas",
+      "area": "Information Systems",
+      "studyType": "Bachelor",
+      "startDate": "2012-01-01",
+      "endDate": "2015-12-17",
+      "gpa": "",
+      "courses": [
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "PHP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese (Brazil)",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "intermediate"
+    }
+  ]
+}
